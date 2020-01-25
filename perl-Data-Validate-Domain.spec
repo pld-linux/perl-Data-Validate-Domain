@@ -4,7 +4,6 @@
 
 %define		pdir	Data
 %define		pnam	Validate-Domain
-%include	/usr/lib/rpm/macros.perl
 Summary:	Domain validation methods Perl module
 Name:		perl-Data-Validate-Domain
 Version:	0.10
