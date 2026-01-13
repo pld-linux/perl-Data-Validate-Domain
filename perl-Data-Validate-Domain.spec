@@ -7,7 +7,7 @@
 Summary:	Domain validation methods Perl module
 Name:		perl-Data-Validate-Domain
 Version:	0.10
-Release:	1
+Release:	2
 License:	GPL+ or Artistic
 Group:		Development/Libraries
 Source0:	http://search.cpan.org/CPAN/authors/id/N/NE/NEELY/Data-Validate-Domain-%{version}.tar.gz
